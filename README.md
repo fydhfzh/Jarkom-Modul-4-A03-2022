@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/72655301/204094402-6b0abdde-2edb-45fc-a8d7-094de1a56b7a.png)
 
-| Subnet | Jumlah IP | Netmask | NID | Netmask | Broadcast | Address |
+| Subnet | Jumlah IP | Netmask | NID | Netmask | Broadcast Address |
 | --- | --- | --- | --- | --- | --- | --- |
 | A01 | 1001 | 1001 |	/22	192.170.4.0 |	255.255.252.0 |	192.170.7.255 |
 | A02	| 2 |	/30 |	192.170.0.0 |	255.255.255.252 |	192.170.0.3 |
